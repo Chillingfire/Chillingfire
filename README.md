@@ -1,4 +1,4 @@
-Hello! My name is Daniel and I'm an aspiring software developer in the greater Seattle area. I'm planning on studying computer science at the University of Washington Bothell, and I've been interested in software development for most of my life. I'm proficient in C#, .NET development, and Java, but I also have experience with C++, HTML, and more. I also have experience with game development, using tools such as Unity and Blender.
+Hello! My name is Daniel and I'm an aspiring software developer in the greater Seattle area. I'm majoring in computer science and software engineering at the University of Washington Bothell, and I've been interested in software development for most of my life. I'm proficient in C#, .NET development, and Java, but I also have experience with C++, HTML, Python, and more. I also have experience with game development, using tools such as Unity and Blender.
 
 📫 Contact Info
 

@@ -6,7 +6,7 @@ LinkedIn - https://www.linkedin.com/in/danielkantora/
 
 Email - daniel.kantor2009@gmail.com 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/chillfire117)](https://leetcode.com/chillfire117)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/chillfire117?theme=unicorn)](https://leetcode.com/chillfire117)
 
 <!---
 Chillingfire/Chillingfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

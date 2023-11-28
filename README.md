@@ -1,5 +1,5 @@
 ## 😎 About Me
-Hello! My name is Daniel and I'm an aspiring software engineer in the greater Seattle area!
+Hello! My name is Daniel and I'm a software engineer in the greater Seattle area!
 - 🎓 Majoring in Computer Science and Software Engineering at the University of Washington Bothell
 - 🚀 Interests: Full-stack development, cloud services, web development, game development
 - 🏖️ Hobbies: Tennis, piano, working out, video games

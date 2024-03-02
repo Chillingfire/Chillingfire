@@ -6,6 +6,8 @@ Hello! My name is Daniel and I'm a software engineer in the greater Seattle area
 
 ## 💼 Work Experience ##
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="25"> <b>Amazon Web Services</b>
+  - Software Development Engineer (Feb 2024 - Present)
+  
   - SDE Intern (Summer 2023)
 
 - <img src="https://github.com/Chillingfire/Chillingfire/assets/13321336/7a9fb077-56e9-4f88-b9d6-ad6f5254d331" width="25"> <b>GE Digital</b>
